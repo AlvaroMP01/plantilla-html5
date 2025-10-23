@@ -1,26 +1,20 @@
 # Dimension HTML5 UP
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Este es Dimension, un divertido y pequeño one-pager con páginas modalizadas (¿existe esa palabra?) y un efecto de profundidad genial (haz clic en un elemento del menú para entenderlo). Sencillo, totalmente responsivo y equipado con todos los elementos prediseñados habituales. ¡Espero que te guste!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Imágenes de demostración* cortesía de Unsplash, una fantástica colección de imágenes CC0 (dominio público) que puedes usar para prácticamente cualquier cosa.
 
-(* = not included)
+## Credits
 
-AJ
-aj@lkn.io | @ajlkn
+### Demo Images
 
-Credits:
+- [Unsplash](https://unsplash.com)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Icons
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- [Font Awesome](https://fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Other
+
+- [jQuery](https://jquery.com)  
+- [Responsive Tools](https://github.com/ajlkn/responsive-tools)
